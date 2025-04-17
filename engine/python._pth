@@ -1,0 +1,4 @@
+python-embed/
+nsz/
+libs/
+import site
