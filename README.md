@@ -1,4 +1,3 @@
-![Lazy NSZ Logo](engine/assets/logo.png)
 # 🛋️ Lazy NSZ
 
 **Too lazy to decompress your NSZ files? Just drag, drop, and relax.**
